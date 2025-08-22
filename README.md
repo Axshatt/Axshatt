@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I'm Akshat ⚡</h2>
-<p align="center">Engineering student | Web 3| AI explorer</p>
+<p align="center">Engineering student | Web 3 | AI explorer</p>
 
 
 ### 💡 What I Do
