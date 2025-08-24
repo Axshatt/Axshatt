@@ -18,4 +18,4 @@
 
 
 ### 🌍 Let’s Connect
-[Twitter](https://twitter.com/axshattt) ・ [Instagram](https://instagram.com/aksshh.exe) ・ [Bento](https://bento.me/axshattt)
+[X](https://twitter.com/axshattt) ・ [Instagram](https://instagram.com/aksshh.exe) ・ [Bento](https://bento.me/axshattt)
