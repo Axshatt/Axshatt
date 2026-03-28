@@ -21,4 +21,4 @@
 
 [![X (Twitter)](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://twitter.com/axshattt)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram)](https://instagram.com/aksshh.exe)
-[![Bento](https://img.shields.io/badge/Bento-000?style=flat&logo=abstract&logoColor=white)](https://bento.me/axshattt)
+[![Bento](https://img.shields.io/badge/Bento-000?style=flat&logo=abstract&logoColor=white)](https://beacons.ai/axshat.in)
